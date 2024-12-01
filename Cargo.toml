@@ -1,0 +1,13 @@
+[package]
+name = "aoc_24"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[package.metadata.clippy]
+all = true
+pedantic = true
+nursery = true
+restriction = true
+perf = true
